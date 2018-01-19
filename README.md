@@ -11,7 +11,7 @@ update 2016-03-16:
 
   - noeye.php 66行 mysql_real_escape_string修改成addslashes函数对输入数据处理。
 
-##How to use?
+## How to use?
 > http://localhost/noeye.php?uk=md5(userkey)
 
 Original readme:
